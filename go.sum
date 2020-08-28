@@ -1,0 +1,4 @@
+github.com/aclivo/olap v1.0.6 h1:aT90cX/5fDEGL/KhFoge1d+mDPKdvu50JZ9J62cGHFo=
+github.com/aclivo/olap v1.0.6/go.mod h1:FvItmg2AOsh8KJmYPKDll/SEmnAkA9A9C6kg/+1W73U=
+github.com/aclivo/tests v1.0.1 h1:dLnkCgc9S9qwlm4Lu6gAL81Ps7y18Oo0mn55BZsgxko=
+github.com/aclivo/tests v1.0.1/go.mod h1:8CYjZ3Kvlt9bt78F9v6GCetHD3bAGbXtVA3IvjGlBtM=
